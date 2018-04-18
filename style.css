@@ -49,7 +49,9 @@ a {
   padding: 2%;
 }
 
-.contact-box>h2, .contact-box>a {
+.contact-box>h2, .contact-box>.btn, .contact-box>p{
 
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
